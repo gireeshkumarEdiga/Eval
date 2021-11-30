@@ -1,0 +1,4 @@
+function library()
+{
+	var lib = document.getElementByid("").value
+}
